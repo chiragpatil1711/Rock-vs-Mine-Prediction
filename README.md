@@ -1,2 +1,1 @@
-# Rock-vs-Mine-Prediction
-Machine Learning Project
+# Sonar-Rock-Vs-Mine-Prediction-Machine-Learning-Project-with-GUI
